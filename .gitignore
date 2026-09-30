@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+Online Retail.xlsx
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.DS_Store
